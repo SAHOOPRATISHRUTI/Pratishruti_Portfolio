@@ -1,2 +1,0 @@
-# Pratishruti_Portfolio
- 

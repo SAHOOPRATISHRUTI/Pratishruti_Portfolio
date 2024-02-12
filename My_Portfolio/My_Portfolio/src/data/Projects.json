@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "Experience the rhythm with this interactive Drum Kit Project",
+    "skills": ["HTML", "CSS", "JASCRIPT"],
+    "demo": "",
+    "source": "https://github.com/SAHOOPRATISHRUTI/30_DAYS_OF_JAVASCRIPT/tree/main/Drum_Kit"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Dynamic Weather App offering real-time updates,location-based forecasts,and a sleek,responsive design.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAHOOPRATISHRUTI/REACT_PROJECT/tree/main/New%20folder/Weather_app"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "PHP-based Hospital Management System for streamlined patient records, appointments, inventory, and billing",
+    "skills": ["PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAHOOPRATISHRUTI/Hospital_Management"
+  }
+]
